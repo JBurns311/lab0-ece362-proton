@@ -1,0 +1,6 @@
+- Soldering heating instructions should be ~350 C or ~660 F (not 350 F) for 1.5mm solder in the 362 lab.
+- Judging by the pictures, the single sided pin headers are only used for the 2x3 pin heads for proton to the debugger
+connections, and the double sided headers should be used for everything else. Written instructions for double and single
+sided pin headers contradict each other.
+- Maybe include some copper wick/desoldering pump instructions in case a student messes up and connects to adjacent pins.
+
